@@ -1,0 +1,28 @@
+NEW RUN: Results Summary
+Test: Bad argument for -m, True
+Test: no argument for -m, True
+Test: Bad argument for -cp (read mode), True
+Test: Bad argument for -sp (read mode), True
+Test: Bad argument for -cp (write mode), True
+Test: Bad argument for -sp (write mode), True
+Test: no argument for -f, True
+Read file: Relaxed, True
+Write file: Relaxed, True
+Read file: Empty, True
+Read file: Single packet, True
+Read file: Small multi-packet, True
+Read file: Large multi-packet, True
+Read file: No file extension, True
+Write file: Empty, True
+Write file: Single packet, True
+Write file: Small multi-packet, True
+Write file: Large multi-packet, True
+Write file: No file extension, True
+Read file: Random drops, False
+Write file: Random drops, True
+Read file: Common drops, True
+Write file: Common drops, True
+Read file: Latency, True
+Write file: Latency, True
+Read file: Very large multi-packet, True
+Write file: Very large multi-packet, True

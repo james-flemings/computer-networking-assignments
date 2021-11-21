@@ -1,0 +1,12 @@
+NEW RUN: Results Summary
+Read: Single Client: Single Thread, True
+Read: Multiple Clients: Two Threads, True
+Read: Multiple Clients: Five Threads, True
+Read: Multiple Clients: Ten Threads, True
+Read: Multiple Clients: Twenty Threads, True
+Write: Single Client: Single Thread, True
+Write: Multiple Clients: Two Threads, True
+Write: Multiple Clients: Five Threads, True
+Write: Multiple Clients: Ten Threads, True
+Write: Multiple Clients: Twenty Threads, True
+Multiple Clients: One Hundred Threads, True
